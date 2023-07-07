@@ -6,11 +6,11 @@ Maze2D is a simple game, in top-down view, built entirely in vimscript.
 
 Use the standard hjkl keys to navigate the board. Run the game with :Maze
 
-H - move left
-J - move down
-K - move up
-L - move right
-ESC - quit game
+- H - move left
+- J - move down
+- K - move up
+- L - move right
+- ESC - quit game
 
 # Gameplay
 
